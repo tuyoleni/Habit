@@ -5,11 +5,11 @@ The **Habit Tracker App** is a simple tool designed to help users build and main
 ---
 
 ## What the App Does
-   - Users can create habits and mark them as complete daily or weekly.
-   - View simple stats like streaks or the number of habits completed in a week.
-   - Get timely reminders to complete habits, keeping users on track.
-   - Receive encouraging notifications and motivational quotes to help users stay consistent and inspired.
-   - Easily manage habits with an intuitive interface.
+- Users can create habits and mark them as complete daily or weekly.
+- View simple stats like streaks or the number of habits completed in a week.
+- Get timely reminders to complete habits, keeping users on track.
+- Receive encouraging notifications and motivational quotes to help users stay consistent and inspired.
+- Easily manage habits with an intuitive interface.
 
 ---
 
@@ -32,13 +32,6 @@ This app focuses on essential features to avoid unnecessary complexity:
 - **Local Storage**: Using `AsyncStorage` for persistent data storage.
 - **Notifications**: Adding push notifications for reminders and motivations.
 - **Navigation**: Implementing screen transitions with `React Navigation`.
-
----
-
-## Example Motivational Notifications
-- **Encouraging Reminder**: "You're just one step closer to your goal! Don't forget to complete your habit today."
-- **Streak Motivation**: "Keep your streak alive! You're on a 5-day roll!"
-- **Daily Inspiration**: "Success is the sum of small efforts repeated daily. Keep it up!", or any quotes from an external service
 
 ---
 
