@@ -5,19 +5,10 @@ The **Habit Tracker App** is a simple tool designed to help users build and main
 ---
 
 ## What the App Does
-1. **Track Habits**:
    - Users can create habits and mark them as complete daily or weekly.
-
-2. **Visualize Progress**:
    - View simple stats like streaks or the number of habits completed in a week.
-
-3. **Receive Notifications**:
    - Get timely reminders to complete habits, keeping users on track.
-
-4. **Motivational Features**:
    - Receive encouraging notifications and motivational quotes to help users stay consistent and inspired.
-
-5. **Stay Organized**:
    - Easily manage habits with an intuitive interface.
 
 ---
